@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![暗色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/wheatma/wheatma/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/wheatma/wheatma/output/github-contribution-grid-snake.svg)
